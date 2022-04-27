@@ -4,9 +4,9 @@ import calculate
 print('Hello World')
 print(calculate.x)
 print('Hi Again Baby')
-
-def foo(x):
-  return x
+print("Bye bye")
+# def foo(x):
+#   return x
 
   
-print(foo(calculate.x))
+# print(foo(calculate.x))
